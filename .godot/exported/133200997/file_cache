@@ -1,0 +1,8 @@
+res://resources/user_input_map.tres::9aaef69ceab93b680c3ebe86c7a52be2::1756824591::res://.godot/exported/133200997/export-66ee64860c25d1c45bcc08e495b2fa0c-user_input_map.res
+res://scenes/basic_movement.tscn::97f2ed28bf9efb6f197689ba3103735e::1756824718::res://.godot/exported/133200997/export-bb3a4df89326d7b03f9a5d54c9729486-basic_movement.scn
+res://scenes/bounce_and_collide.tscn::b00ba4b7238e48c43597bfe051e1de4d::1756824761::res://.godot/exported/133200997/export-1dd889a80bbd74f9853f16d3bc37c353-bounce_and_collide.scn
+res://scenes/bullet.tscn::27de72c286a4740b3d2815881dccdd09::1756824733::res://.godot/exported/133200997/export-6d8e6ff1e6f20a36e0402d27c623c86c-bullet.scn
+res://scenes/main.tscn::6928bbcefb586dcdaaf7b009086e5635::1759597884::res://.godot/exported/133200997/export-3ad5c15c4f3250da0cc7c1af1770d85f-main.scn
+res://scenes/platformer.tscn::949e9fa082bb751b6ecc22d33730711c::1756824749::res://.godot/exported/133200997/export-8737e09893309b81eae239ae26e5c923-platformer.scn
+res://scenes/platform_player.tscn::726b1a6426397a3916a5595db594f4da::1756824747::res://.godot/exported/133200997/export-3b84db9bb06c6816dda7c8d5c9c11233-platform_player.scn
+res://scenes/wall.tscn::994a8cf05e91056d5cced7baa0ec5522::1756824758::res://.godot/exported/133200997/export-07690686bd1a72f71ae2b53bb79af276-wall.scn
