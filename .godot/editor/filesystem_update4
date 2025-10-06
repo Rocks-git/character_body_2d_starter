@@ -1,2 +1,3 @@
 res://scenes/main.tscn
 res://scenes/velocity_controlled.gd
+res://scripts/character_body_2d.gd
